@@ -14,7 +14,7 @@ class Person {
 
 class Student extends Person {
 	study(){
-		console.log(`${this._name} is studing`);
+		console.log(`${this._name} is studying`);
 	}
 }
 
